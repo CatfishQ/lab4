@@ -1,4 +1,5 @@
-# lab4
+#lab4
+questionA:
 0000000000601038 B __bss_start
 0000000000601038 b completed.6973
 0000000000601028 D __data_start
@@ -34,3 +35,10 @@
 0000000000601038 D __TMC_END__
 000000000040052d T _Z7averageif
 00000000004004ed T _Z7averagePdRd
+
+questionB:
+1 8
+4 8
+4 8
+8 8
+
